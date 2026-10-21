@@ -1,0 +1,362 @@
+# Python Learning Roadmap
+
+## 1. Python Basics
+
+a. Installing Python  
+b. Using VS Code, PyCharm, or another code editor  
+c. Running Python files  
+d. Python syntax  
+e. Variables  
+f. Data types  
+g. Numbers  
+h. Strings  
+i. Booleans  
+j. Comments  
+k. Input and output  
+l. Type conversion  
+m. Arithmetic operators  
+n. Comparison operators  
+o. Assignment operators  
+
+## 2. Control Flow
+
+a. `if` statements  
+b. `elif` statements  
+c. `else` statements  
+d. Comparison conditions  
+e. Logical operators  
+f. Nested conditions  
+g. `for` loops  
+h. `while` loops  
+i. The `range()` function  
+j. Nested loops  
+k. `break`  
+l. `continue`  
+m. `pass`  
+
+## 3. Data Structures
+
+a. Lists  
+b. Tuples  
+c. Sets  
+d. Dictionaries  
+e. Indexing  
+f. Slicing  
+g. Adding values  
+h. Removing values  
+i. Updating values  
+j. Searching for values  
+k. Sorting data  
+l. Looping through collections  
+m. List comprehensions  
+n. Dictionary comprehensions  
+o. Choosing the correct data structure  
+
+## 4. Functions
+
+a. Creating functions  
+b. Calling functions  
+c. Parameters  
+d. Arguments  
+e. Return values  
+f. Default arguments  
+g. Keyword arguments  
+h. Positional arguments  
+i. Variable scope  
+j. Local variables  
+k. Global variables  
+l. Lambda functions  
+m. Recursion  
+n. Writing reusable functions  
+
+## 5. Working with Strings
+
+a. String indexing  
+b. String slicing  
+c. String methods  
+d. Changing letter case  
+e. Removing spaces  
+f. Searching text  
+g. Replacing text  
+h. Splitting strings  
+i. Joining strings  
+j. Checking string content  
+k. Formatting with f-strings  
+l. Escape characters  
+m. Basic regular expressions  
+
+## 6. Error Handling and Debugging
+
+a. Syntax errors  
+b. Runtime errors  
+c. Logical errors  
+d. Reading error messages  
+e. Using `try`  
+f. Using `except`  
+g. Using `else`  
+h. Using `finally`  
+i. Handling multiple exceptions  
+j. Raising exceptions  
+k. Using assertions  
+l. Debugging with print statements  
+m. Using a debugger  
+
+## 7. Files and Data
+
+a. Opening files  
+b. Reading text files  
+c. Writing text files  
+d. Appending to files  
+e. Closing files  
+f. Using the `with` statement  
+g. File paths  
+h. The `pathlib` module  
+i. Working with CSV files  
+j. Working with JSON files  
+k. Handling file errors  
+l. Organising files and folders  
+
+## 8. Modules and Packages
+
+a. Importing modules  
+b. Importing specific functions  
+c. Using module aliases  
+d. Creating your own modules  
+e. The Python Standard Library  
+f. Installing packages with `pip`  
+g. Using third-party packages  
+h. Creating virtual environments  
+i. Activating virtual environments  
+j. Managing project dependencies  
+k. Creating a `requirements.txt` file  
+
+## 9. Beginner Projects
+
+a. Calculator  
+b. Number guessing game  
+c. Unit converter  
+d. To-do list  
+e. Password generator  
+f. Quiz application  
+g. Contact book  
+h. Expense tracker  
+i. Text-based adventure game  
+j. File organiser  
+k. Simple inventory system  
+l. Basic weather application using an API  
+
+## 10. Object-Oriented Programming
+
+a. Classes  
+b. Objects  
+c. Attributes  
+d. Methods  
+e. Constructors using `__init__`  
+f. Instance variables  
+g. Class variables  
+h. Instance methods  
+i. Class methods  
+j. Static methods  
+k. Inheritance  
+l. Encapsulation  
+m. Polymorphism  
+n. Method overriding  
+o. Composition  
+p. Special methods such as `__str__`  
+q. Dataclasses  
+
+## 11. Testing and Code Quality
+
+a. Writing clean code  
+b. Naming variables clearly  
+c. Breaking code into smaller functions  
+d. Avoiding repeated code  
+e. PEP 8 style guidelines  
+f. Comments  
+g. Docstrings  
+h. Type hints  
+i. Assertions  
+j. Unit testing  
+k. Using `pytest`  
+l. Testing exceptions  
+m. Logging  
+n. Code documentation  
+o. Refactoring code  
+
+## 12. APIs and Web Data
+
+a. Understanding HTTP  
+b. HTTP methods  
+c. Status codes  
+d. Using the `requests` library  
+e. Sending GET requests  
+f. Sending POST requests  
+g. Working with REST APIs  
+h. Parsing JSON responses  
+i. Query parameters  
+j. Headers  
+k. API authentication  
+l. API keys  
+m. Handling API errors  
+n. Rate limits  
+o. Web scraping basics  
+p. Beautiful Soup  
+q. HTML parsing  
+
+## 13. Databases
+
+a. Database concepts  
+b. Tables, rows, and columns  
+c. Primary keys  
+d. SQL basics  
+e. Creating tables  
+f. Inserting records  
+g. Reading records  
+h. Updating records  
+i. Deleting records  
+j. Filtering records  
+k. Sorting records  
+l. SQL joins  
+m. SQLite  
+n. Connecting Python to SQLite  
+o. Executing SQL from Python  
+p. Preventing SQL injection  
+q. Introduction to SQLAlchemy  
+
+## 14. Intermediate Python
+
+a. `*args`  
+b. `**kwargs`  
+c. Unpacking values  
+d. Iterators  
+e. Generators  
+f. Generator expressions  
+g. Decorators  
+h. Context managers  
+i. Custom exceptions  
+j. Sorting with custom keys  
+k. The `collections` module  
+l. Date and time handling  
+m. Type hints  
+n. Enumerations  
+o. Pattern matching  
+p. Functional programming concepts  
+q. Memory-efficient programming  
+
+## 15. Version Control and Project Organisation
+
+a. Git basics  
+b. Creating a repository  
+c. Tracking changes  
+d. Creating commits  
+e. Viewing commit history  
+f. Creating branches  
+g. Merging branches  
+h. Resolving merge conflicts  
+i. Using GitHub  
+j. Writing a README file  
+k. Using `.gitignore`  
+l. Organising Python projects  
+m. Separating code into modules  
+n. Managing configuration files  
+o. Protecting passwords and API keys  
+
+## 16. Choose a Python Specialisation
+
+### 16A. Web Development
+
+a. HTML basics  
+b. CSS basics  
+c. JavaScript basics  
+d. Flask  
+e. Django  
+f. FastAPI  
+g. Routing  
+h. Templates  
+i. Forms  
+j. Databases  
+k. User authentication  
+l. Sessions and cookies  
+m. Building REST APIs  
+n. Deployment  
+o. Web security basics  
+
+### 16B. Data Analysis
+
+a. Jupyter Notebook  
+b. NumPy  
+c. pandas  
+d. Importing datasets  
+e. Data cleaning  
+f. Missing data  
+g. Filtering data  
+h. Grouping data  
+i. Combining datasets  
+j. Data analysis  
+k. Matplotlib  
+l. Data visualisation  
+m. Exploratory data analysis  
+n. Basic statistics  
+
+### 16C. Machine Learning
+
+a. Mathematics basics  
+b. Statistics basics  
+c. NumPy  
+d. pandas  
+e. Data preprocessing  
+f. Feature selection  
+g. Training and testing data  
+h. scikit-learn  
+i. Regression  
+j. Classification  
+k. Clustering  
+l. Model training  
+m. Model evaluation  
+n. Overfitting and underfitting  
+o. Hyperparameter tuning  
+p. TensorFlow basics  
+q. PyTorch basics  
+
+### 16D. Automation
+
+a. File automation  
+b. Folder automation  
+c. Excel automation  
+d. PDF automation  
+e. Email automation  
+f. Browser automation  
+g. Web scraping  
+h. Scheduling scripts  
+i. Working with operating-system commands  
+j. Creating command-line tools  
+k. Automating repetitive tasks  
+l. Logging automated tasks  
+
+### 16E. Cybersecurity
+
+a. Networking basics  
+b. Operating-system basics  
+c. Command-line tools  
+d. Working with sockets  
+e. Hashing  
+f. Encryption basics  
+g. Log analysis  
+h. Network scanning concepts  
+i. Security automation  
+j. Ethical and legal responsibilities  
+
+## 17. Advanced Projects
+
+a. Personal finance tracker  
+b. Blog website  
+c. REST API  
+d. Task management application  
+e. Web scraper  
+f. Automated report generator  
+g. Data analysis dashboard  
+h. Chat application  
+i. E-commerce application  
+j. Machine-learning prediction application  
+k. Command-line productivity tool  
+l. Portfolio website with a Python backend  
